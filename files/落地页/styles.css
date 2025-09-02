@@ -1623,8 +1623,14 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-size:20px;
   text-align:left;
+=======
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+>>>>>>> parent of 98a0a18 (V1.3)
 }
 #u311 {
   border-width:0px;
@@ -1634,8 +1640,14 @@
   width:345px;
   height:84px;
   display:flex;
+<<<<<<< HEAD
   font-size:20px;
   text-align:left;
+=======
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+>>>>>>> parent of 98a0a18 (V1.3)
 }
 #u311 .text {
   position:absolute;
@@ -1654,8 +1666,26 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:75px;
   height:75px;
+=======
+  width:152px;
+  height:40px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+>>>>>>> parent of 98a0a18 (V1.3)
 }
 #u312 {
   border-width:0px;
@@ -1665,6 +1695,12 @@
   width:75px;
   height:75px;
   display:flex;
+<<<<<<< HEAD
+=======
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+>>>>>>> parent of 98a0a18 (V1.3)
 }
 #u312 .text {
   position:absolute;
