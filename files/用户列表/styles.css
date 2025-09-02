@@ -16,7 +16,11 @@
   position:absolute;
   z-index:0;
 }
+<<<<<<< HEAD
 #u1815_div {
+=======
+#u1866_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -34,7 +38,11 @@
   -webkit-box-shadow:none;
   box-shadow:none;
 }
+<<<<<<< HEAD
 #u1815 {
+=======
+#u1866 {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:1365px;
@@ -43,6 +51,7 @@
   height:467px;
   display:flex;
 }
+<<<<<<< HEAD
 #u1815 .text {
   position:absolute;
   align-self:center;
@@ -2351,6 +2360,8 @@
   height:49px;
   display:flex;
 }
+=======
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1866 .text {
   position:absolute;
   align-self:center;
@@ -2362,22 +2373,40 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1867_img {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:0px;
   width:78px;
   height:49px;
+=======
+  left:-5px;
+  top:-5px;
+  width:1190px;
+  height:203px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1867 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:579px;
   top:123px;
   width:78px;
   height:49px;
+=======
+  left:20px;
+  top:55px;
+  width:1180px;
+  height:193px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1867 .text {
@@ -2391,65 +2420,289 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
 }
 #u1868_img {
+=======
+  visibility:hidden;
+}
+#u1868_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:166px;
   height:49px;
+=======
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(37, 97, 239, 1);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  line-height:20px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1868 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:657px;
   top:123px;
   width:166px;
   height:49px;
   display:flex;
+=======
+  left:69px;
+  top:182px;
+  width:80px;
+  height:32px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  line-height:20px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1868 .text {
   position:absolute;
   align-self:center;
+<<<<<<< HEAD
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
+=======
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1868_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(37, 97, 239, 0.8);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  line-height:20px;
+}
+#u1868.mouseOver {
+}
+#u1868_div.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(0, 51, 204, 1);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  line-height:20px;
+}
+#u1868.mouseDown {
+}
+#u1868_div.mouseOver.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(0, 51, 204, 1);
+  border:none;
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+  line-height:20px;
+}
+#u1868.mouseOver.mouseDown {
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1868_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1869_img {
+=======
+#u1869_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:123px;
   height:49px;
+=======
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.09803921568627451);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(204, 204, 204, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  line-height:20px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1869 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:823px;
   top:123px;
   width:123px;
   height:49px;
   display:flex;
+=======
+  left:159px;
+  top:182px;
+  width:80px;
+  height:32px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  line-height:20px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1869 .text {
   position:absolute;
   align-self:center;
+<<<<<<< HEAD
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
+=======
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1869_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(204, 204, 204, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  line-height:20px;
+}
+#u1869.mouseOver {
+}
+#u1869_div.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.09803921568627451);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(153, 153, 153, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  line-height:20px;
+}
+#u1869.mouseDown {
+}
+#u1869_div.mouseOver.mouseDown {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:80px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(242, 242, 242, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(153, 153, 153, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  line-height:20px;
+}
+#u1869.mouseOver.mouseDown {
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1869_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1870_img {
   border-width:0px;
   position:absolute;
@@ -2480,21 +2733,61 @@
   text-transform:none;
 }
 #u1871_img {
+=======
+#u1870 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+  width:0px;
+  height:0px;
+}
+#u1871_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+<<<<<<< HEAD
   width:173px;
   height:49px;
+=======
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(228, 228, 228, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1871 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:1006px;
   top:123px;
   width:173px;
   height:49px;
   display:flex;
+=======
+  left:132px;
+  top:125px;
+  width:300px;
+  height:32px;
+  display:flex;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1871 .text {
   position:absolute;
@@ -2503,19 +2796,175 @@
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
+=======
+#u1871_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1871.mouseOver {
+}
+#u1871_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1871.selected {
+}
+#u1871_div.mouseOver.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1871.mouseOver.selected {
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1871_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
 }
+<<<<<<< HEAD
+=======
+#u1872_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#000000;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u1872_input.hint {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#CCCCCC;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u1872_input.disabled {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#000000;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u1872_input.hint.disabled {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#CCCCCC;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1872_div {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:35px;
   height:16px;
+=======
+  width:211px;
+  height:30px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
   border:none;
@@ -2523,12 +2972,16 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-size:12px;
   color:#00AAAA;
+=======
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1872 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:814px;
   top:322px;
   width:35px;
@@ -2576,32 +3029,214 @@
 }
 #u1874 .text {
   position:absolute;
+=======
+  left:144px;
+  top:126px;
+  width:211px;
+  height:30px;
+  display:flex;
+}
+#u1872 .text {
+  position:absolute;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   align-self:center;
   padding:2px 2px 2px 2px;
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
 #u1874_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
 #u1875_img {
+=======
+#u1872_div.hint {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:36px;
+=======
+  width:211px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1872.hint {
+}
+#u1872_div.disabled {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(240, 240, 240, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1872.disabled {
+}
+#u1872_div.hint.disabled {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(240, 240, 240, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1872.hint.disabled {
+}
+#u1873_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:18px;
+  height:18px;
+}
+#u1873 {
+  border-width:0px;
+  position:absolute;
+  left:404px;
+  top:132px;
+  width:18px;
+  height:18px;
+  display:flex;
+}
+#u1873 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1873_img.mouseOver {
+}
+#u1873.mouseOver {
+}
+#u1873_img.mouseDown {
+}
+#u1873.mouseDown {
+}
+#u1873_img.mouseOver.mouseDown {
+}
+#u1873.mouseOver.mouseDown {
+}
+#u1873_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1874_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:52px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+}
+#u1874 {
+  border-width:0px;
+  position:absolute;
+  left:69px;
+  top:132px;
+  width:52px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+}
+#u1874 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1874_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1875_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(228, 228, 228, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1875 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:0px;
   width:150px;
   height:36px;
   display:flex;
+=======
+  left:511px;
+  top:125px;
+  width:300px;
+  height:32px;
+  display:flex;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1875 .text {
   position:absolute;
@@ -2610,26 +3245,200 @@
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
 #u1875_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
 #u1876_img {
+=======
+#u1875_div.mouseOver {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:36px;
+=======
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1875.mouseOver {
+}
+#u1875_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1875.selected {
+}
+#u1875_div.mouseOver.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:300px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0.0196078431372549);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1875.mouseOver.selected {
+}
+#u1875_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1876_input {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#000000;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u1876_input.hint {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#CCCCCC;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u1876_input.disabled {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#000000;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u1876_input.hint.disabled {
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  padding:2px 2px 2px 2px;
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#CCCCCC;
+  vertical-align:none;
+  text-align:left;
+  text-transform:none;
+  background-color:transparent;
+  border-color:transparent;
+}
+#u1876_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1876 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:0px;
   width:110px;
   height:36px;
+=======
+  left:523px;
+  top:126px;
+  width:211px;
+  height:30px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1876 .text {
@@ -2639,26 +3448,91 @@
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
 #u1876_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+=======
+#u1876_div.hint {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1876.hint {
+}
+#u1876_div.disabled {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(240, 240, 240, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1876.disabled {
+}
+#u1876_div.hint.disabled {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:211px;
+  height:30px;
+  background:inherit;
+  background-color:rgba(240, 240, 240, 1);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1876.hint.disabled {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1877_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:36px;
+=======
+  width:18px;
+  height:18px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1877 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:0px;
   width:182px;
   height:36px;
+=======
+  left:783px;
+  top:132px;
+  width:18px;
+  height:18px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1877 .text {
@@ -2668,22 +3542,61 @@
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
+=======
+#u1877_img.mouseOver {
+}
+#u1877.mouseOver {
+}
+#u1877_img.mouseDown {
+}
+#u1877.mouseDown {
+}
+#u1877_img.mouseOver.mouseDown {
+}
+#u1877.mouseOver.mouseDown {
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1877_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
 }
 #u1878_img {
+=======
+  visibility:hidden;
+}
+#u1878_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:39px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1878 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:36px;
   width:60px;
@@ -2694,11 +3607,29 @@
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
+=======
+  left:455px;
+  top:132px;
+  width:39px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+}
+#u1878 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
 #u1878_text {
   border-width:0px;
+<<<<<<< HEAD
   word-wrap:break-word;
   text-transform:none;
 }
@@ -2732,21 +3663,64 @@
   text-transform:none;
 }
 #u1880_img {
+=======
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1879 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+  width:0px;
+  height:0px;
+}
+#u1880_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(228, 228, 228, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1880 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:36px;
   width:110px;
   height:30px;
   display:flex;
+=======
+  left:133px;
+  top:75px;
+  width:200px;
+  height:32px;
+  display:flex;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1880 .text {
   position:absolute;
@@ -2755,26 +3729,114 @@
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
+=======
+#u1880_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1880.mouseOver {
+}
+#u1880_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1880.selected {
+}
+#u1880_div.mouseOver.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1880.mouseOver.selected {
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1880_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1881_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:9px;
+  height:5px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1881 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:36px;
   width:182px;
   height:30px;
+=======
+  left:311px;
+  top:89px;
+  width:9px;
+  height:5px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1881 .text {
@@ -2790,17 +3852,38 @@
   text-transform:none;
   visibility:hidden;
 }
+<<<<<<< HEAD
 #u1882_img {
+=======
+#u1882_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:39px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1882 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:66px;
   width:60px;
@@ -2811,25 +3894,66 @@
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
+=======
+  left:152px;
+  top:82px;
+  width:39px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u1882 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
 #u1882_text {
   border-width:0px;
+<<<<<<< HEAD
   word-wrap:break-word;
   text-transform:none;
 }
 #u1883_img {
+=======
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1883_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:45px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1883 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:66px;
   width:150px;
@@ -2840,11 +3964,29 @@
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
+=======
+  left:69px;
+  top:82px;
+  width:45px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+}
+#u1883 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
 #u1883_text {
   border-width:0px;
+<<<<<<< HEAD
   word-wrap:break-word;
   text-transform:none;
 }
@@ -2878,21 +4020,64 @@
   text-transform:none;
 }
 #u1885_img {
+=======
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1884 {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+  width:0px;
+  height:0px;
+}
+#u1885_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(228, 228, 228, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1885 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:66px;
   width:182px;
   height:30px;
   display:flex;
+=======
+  left:446px;
+  top:75px;
+  width:200px;
+  height:32px;
+  display:flex;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1885 .text {
   position:absolute;
@@ -2901,6 +4086,78 @@
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
+=======
+#u1885_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1885.mouseOver {
+}
+#u1885_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1885.selected {
+}
+#u1885_div.mouseOver.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:200px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-radius:4px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#CCCCCC;
+  text-align:left;
+}
+#u1885.mouseOver.selected {
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1885_text {
   border-width:0px;
   word-wrap:break-word;
@@ -2912,16 +4169,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:9px;
+  height:5px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1886 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:96px;
   width:60px;
   height:30px;
+=======
+  left:624px;
+  top:89px;
+  width:9px;
+  height:5px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1886 .text {
@@ -2935,18 +4204,41 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
 }
 #u1887_img {
+=======
+  visibility:hidden;
+}
+#u1887_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:39px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1887 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:96px;
   width:150px;
@@ -2957,25 +4249,66 @@
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
+=======
+  left:465px;
+  top:82px;
+  width:39px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+}
+#u1887 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
 #u1887_text {
   border-width:0px;
+<<<<<<< HEAD
   word-wrap:break-word;
   text-transform:none;
 }
 #u1888_img {
+=======
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1888_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:52px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1888 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:96px;
   width:110px;
@@ -2986,11 +4319,29 @@
   position:absolute;
   align-self:center;
   padding:2px 2px 2px 2px;
+=======
+  left:382px;
+  top:82px;
+  width:52px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#999999;
+}
+#u1888 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
 #u1888_text {
   border-width:0px;
+<<<<<<< HEAD
   word-wrap:break-word;
   text-transform:none;
 }
@@ -3023,22 +4374,45 @@
   word-wrap:break-word;
   text-transform:none;
   visibility:hidden;
+=======
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1889 {
+  border-width:0px;
+  position:absolute;
+  left:20px;
+  top:266px;
+  width:1179px;
+  height:172px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1890_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:87px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1890 {
   border-width:0px;
   position:absolute;
   left:0px;
+<<<<<<< HEAD
   top:126px;
   width:60px;
   height:30px;
+=======
+  top:0px;
+  width:87px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1890 .text {
@@ -3058,16 +4432,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:76px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1891 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:126px;
   width:150px;
   height:30px;
+=======
+  left:87px;
+  top:0px;
+  width:76px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1891 .text {
@@ -3087,16 +4473,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:107px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1892 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:126px;
   width:110px;
   height:30px;
+=======
+  left:163px;
+  top:0px;
+  width:107px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1892 .text {
@@ -3116,16 +4514,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:103px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1893 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:126px;
   width:182px;
   height:30px;
+=======
+  left:270px;
+  top:0px;
+  width:103px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1893 .text {
@@ -3139,23 +4549,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
   visibility:hidden;
+=======
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1894_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:100px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1894 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:156px;
   width:60px;
   height:30px;
+=======
+  left:373px;
+  top:0px;
+  width:100px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1894 .text {
@@ -3175,16 +4600,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:106px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1895 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:156px;
   width:150px;
   height:30px;
+=======
+  left:473px;
+  top:0px;
+  width:106px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1895 .text {
@@ -3204,16 +4641,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:78px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1896 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:156px;
   width:110px;
   height:30px;
+=======
+  left:579px;
+  top:0px;
+  width:78px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1896 .text {
@@ -3233,16 +4682,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:166px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1897 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:156px;
   width:182px;
   height:30px;
+=======
+  left:657px;
+  top:0px;
+  width:166px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1897 .text {
@@ -3262,16 +4723,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:123px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1898 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:186px;
   width:60px;
   height:30px;
+=======
+  left:823px;
+  top:0px;
+  width:123px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1898 .text {
@@ -3291,16 +4764,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:60px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1899 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:186px;
   width:150px;
   height:30px;
+=======
+  left:946px;
+  top:0px;
+  width:60px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1899 .text {
@@ -3320,16 +4805,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:173px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1900 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:186px;
   width:110px;
   height:30px;
+=======
+  left:1006px;
+  top:0px;
+  width:173px;
+  height:50px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1900 .text {
@@ -3349,16 +4846,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:87px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1901 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:186px;
   width:182px;
   height:30px;
+=======
+  left:0px;
+  top:50px;
+  width:87px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1901 .text {
@@ -3379,16 +4888,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:76px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1902 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:216px;
   width:60px;
   height:30px;
+=======
+  left:87px;
+  top:50px;
+  width:76px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1902 .text {
@@ -3402,22 +4923,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1903_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:107px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1903 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:216px;
   width:150px;
   height:30px;
+=======
+  left:163px;
+  top:50px;
+  width:107px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1903 .text {
@@ -3431,22 +4968,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1904_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:103px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1904 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:216px;
   width:110px;
   height:30px;
+=======
+  left:270px;
+  top:50px;
+  width:103px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1904 .text {
@@ -3460,22 +5013,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1905_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:100px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1905 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:216px;
   width:182px;
   height:30px;
+=======
+  left:373px;
+  top:50px;
+  width:100px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1905 .text {
@@ -3489,23 +5058,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
   visibility:hidden;
+=======
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1906_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:106px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1906 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:246px;
   width:60px;
   height:30px;
+=======
+  left:473px;
+  top:50px;
+  width:106px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1906 .text {
@@ -3525,16 +5109,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:78px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1907 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:246px;
   width:150px;
   height:30px;
+=======
+  left:579px;
+  top:50px;
+  width:78px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1907 .text {
@@ -3554,16 +5150,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:166px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1908 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:246px;
   width:110px;
   height:30px;
+=======
+  left:657px;
+  top:50px;
+  width:166px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1908 .text {
@@ -3583,16 +5191,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:123px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1909 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:246px;
   width:182px;
   height:30px;
+=======
+  left:823px;
+  top:50px;
+  width:123px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1909 .text {
@@ -3606,7 +5226,10 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
   visibility:hidden;
+=======
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1910_img {
   border-width:0px;
@@ -3614,15 +5237,26 @@
   left:0px;
   top:0px;
   width:60px;
+<<<<<<< HEAD
   height:30px;
+=======
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1910 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:276px;
   width:60px;
   height:30px;
+=======
+  left:946px;
+  top:50px;
+  width:60px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1910 .text {
@@ -3642,17 +5276,31 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:173px;
+  height:73px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1911 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:276px;
   width:150px;
   height:30px;
   display:flex;
+=======
+  left:1006px;
+  top:50px;
+  width:173px;
+  height:73px;
+  display:flex;
+  color:#00AAAA;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1911 .text {
   position:absolute;
@@ -3665,22 +5313,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1912_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:87px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1912 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:276px;
   width:110px;
   height:30px;
+=======
+  left:0px;
+  top:123px;
+  width:87px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1912 .text {
@@ -3694,22 +5358,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1913_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:76px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1913 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:276px;
   width:182px;
   height:30px;
+=======
+  left:87px;
+  top:123px;
+  width:76px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1913 .text {
@@ -3730,16 +5410,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:60px;
   height:30px;
+=======
+  width:107px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1914 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:0px;
   top:306px;
   width:60px;
   height:30px;
+=======
+  left:163px;
+  top:123px;
+  width:107px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1914 .text {
@@ -3753,22 +5445,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1915_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:150px;
   height:30px;
+=======
+  width:103px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1915 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:60px;
   top:306px;
   width:150px;
   height:30px;
+=======
+  left:270px;
+  top:123px;
+  width:103px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1915 .text {
@@ -3782,22 +5490,38 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1916_img {
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:110px;
   height:30px;
+=======
+  width:100px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1916 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:210px;
   top:306px;
   width:110px;
   height:30px;
+=======
+  left:373px;
+  top:123px;
+  width:100px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1916 .text {
@@ -3817,16 +5541,28 @@
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:182px;
   height:30px;
+=======
+  width:106px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1917 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:320px;
   top:306px;
   width:182px;
   height:30px;
+=======
+  left:473px;
+  top:123px;
+  width:106px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1917 .text {
@@ -3840,13 +5576,19 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
   visibility:hidden;
 }
 #u1918_div {
+=======
+}
+#u1918_img {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:101px;
   height:21px;
   background:inherit;
@@ -3859,10 +5601,15 @@
   font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
   font-weight:700;
   font-style:normal;
+=======
+  width:78px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1918 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:1378px;
   top:70px;
   width:101px;
@@ -3876,6 +5623,18 @@
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
+=======
+  left:579px;
+  top:123px;
+  width:78px;
+  height:49px;
+  display:flex;
+}
+#u1918 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
@@ -3884,11 +5643,16 @@
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1919_div {
+=======
+#u1919_img {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:268px;
   height:32px;
   background:inherit;
@@ -3901,14 +5665,25 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+=======
+  width:166px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1919 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:1495px;
   top:448px;
   width:268px;
   height:32px;
+=======
+  left:657px;
+  top:123px;
+  width:166px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1919 .text {
@@ -3923,11 +5698,16 @@
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1920_div {
+=======
+#u1920_img {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:102px;
   height:33px;
   background:inherit;
@@ -3940,14 +5720,25 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+=======
+  width:123px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1920 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:1778px;
   top:479px;
   width:102px;
   height:33px;
+=======
+  left:823px;
+  top:123px;
+  width:123px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   display:flex;
 }
 #u1920 .text {
@@ -3962,11 +5753,16 @@
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1921_div {
+=======
+#u1921_img {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:13px;
   height:21px;
   background:inherit;
@@ -3979,10 +5775,15 @@
   font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
   font-weight:700;
   font-style:normal;
+=======
+  width:60px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1921 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:1867px;
   top:70px;
   width:13px;
@@ -3996,19 +5797,39 @@
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
+=======
+  left:946px;
+  top:123px;
+  width:60px;
+  height:49px;
+  display:flex;
+}
+#u1921 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
 #u1921_text {
   border-width:0px;
+<<<<<<< HEAD
   white-space:nowrap;
   text-transform:none;
 }
 #u1922_div {
+=======
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1922_img {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:35px;
   height:16px;
   background:inherit;
@@ -4020,10 +5841,15 @@
   box-shadow:none;
   font-size:12px;
   color:#00AAAA;
+=======
+  width:173px;
+  height:49px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1922 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:814px;
   top:341px;
   width:35px;
@@ -4036,6 +5862,18 @@
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
+=======
+  left:1006px;
+  top:123px;
+  width:173px;
+  height:49px;
+  display:flex;
+}
+#u1922 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   box-sizing:border-box;
   width:100%;
 }
@@ -4043,6 +5881,10 @@
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
+<<<<<<< HEAD
+=======
+  visibility:hidden;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1923_div {
   border-width:0px;
@@ -4065,7 +5907,11 @@
   border-width:0px;
   position:absolute;
   left:814px;
+<<<<<<< HEAD
   top:363px;
+=======
+  top:322px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   width:35px;
   height:16px;
   display:flex;
@@ -4084,6 +5930,7 @@
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1924_div {
   border-width:0px;
   position:absolute;
@@ -4136,10 +5983,22 @@
   width:100%;
 }
 #u1924_div.mouseOver {
+=======
+#u1924 {
+  border-width:0px;
+  position:absolute;
+  left:1378px;
+  top:103px;
+  width:502px;
+  height:336px;
+}
+#u1925_img {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
   top:0px;
+<<<<<<< HEAD
   width:87px;
   height:18px;
   background:inherit;
@@ -4260,10 +6119,15 @@
   font-size:13px;
   color:#2561EF;
   text-align:center;
+=======
+  width:60px;
+  height:36px;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 }
 #u1925 {
   border-width:0px;
   position:absolute;
+<<<<<<< HEAD
   left:1111px;
   top:342px;
   width:87px;
@@ -4373,12 +6237,1529 @@
 }
 #u1925.mouseOver.selected {
 }
+=======
+  left:0px;
+  top:0px;
+  width:60px;
+  height:36px;
+  display:flex;
+}
+#u1925 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
 #u1925_text {
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1926_div {
+=======
+#u1926_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:36px;
+}
+#u1926 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:0px;
+  width:150px;
+  height:36px;
+  display:flex;
+}
+#u1926 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1926_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1927_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:36px;
+}
+#u1927 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:0px;
+  width:110px;
+  height:36px;
+  display:flex;
+}
+#u1927 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1927_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1928_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:36px;
+}
+#u1928 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:0px;
+  width:182px;
+  height:36px;
+  display:flex;
+}
+#u1928 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1928_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1929_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1929 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:36px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1929 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1929_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1930_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1930 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:36px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1930 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1930_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1931_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1931 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:36px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1931 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1931_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1932_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1932 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:36px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1932 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1932_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1933_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1933 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:66px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1933 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1933_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1934_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1934 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:66px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1934 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1934_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1935_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1935 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:66px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1935 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1935_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1936_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1936 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:66px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1936 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1936_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1937_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1937 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:96px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1937 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1937_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1938_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1938 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:96px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1938 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1938_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1939_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1939 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:96px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1939 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1939_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1940_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1940 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:96px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1940 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1940_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1941_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1941 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:126px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1941 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1941_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1942_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1942 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:126px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1942 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1942_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1943_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1943 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:126px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1943 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1943_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1944_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1944 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:126px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1944 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1944_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1945_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1945 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:156px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1945 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1945_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1946_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1946 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:156px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1946 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1946_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1947_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1947 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:156px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1947 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1947_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1948_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1948 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:156px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1948 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1948_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1949_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1949 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:186px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1949 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1949_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1950_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1950 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:186px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1950 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1950_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1951_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1951 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:186px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1951 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1951_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1952_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1952 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:186px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1952 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1952_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1953_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1953 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:216px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1953 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1953_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1954_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1954 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:216px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1954 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1954_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1955_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1955 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:216px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1955 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1955_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1956_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1956 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:216px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1956 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1956_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1957_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1957 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:246px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1957 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1957_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1958_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1958 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:246px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1958 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1958_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1959_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1959 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:246px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1959 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1959_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1960_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1960 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:246px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1960 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1960_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1961_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1961 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:276px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1961 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1961_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1962_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1962 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:276px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1962 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1962_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1963_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1963 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:276px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1963 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1963_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1964_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1964 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:276px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1964 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1964_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1965_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:60px;
+  height:30px;
+}
+#u1965 {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:306px;
+  width:60px;
+  height:30px;
+  display:flex;
+}
+#u1965 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1965_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1966_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:150px;
+  height:30px;
+}
+#u1966 {
+  border-width:0px;
+  position:absolute;
+  left:60px;
+  top:306px;
+  width:150px;
+  height:30px;
+  display:flex;
+}
+#u1966 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1966_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1967_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:110px;
+  height:30px;
+}
+#u1967 {
+  border-width:0px;
+  position:absolute;
+  left:210px;
+  top:306px;
+  width:110px;
+  height:30px;
+  display:flex;
+}
+#u1967 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1967_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1968_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:182px;
+  height:30px;
+}
+#u1968 {
+  border-width:0px;
+  position:absolute;
+  left:320px;
+  top:306px;
+  width:182px;
+  height:30px;
+  display:flex;
+}
+#u1968 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1968_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
+#u1969_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:101px;
+  height:21px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
+}
+#u1969 {
+  border-width:0px;
+  position:absolute;
+  left:1378px;
+  top:70px;
+  width:101px;
+  height:21px;
+  display:flex;
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
+}
+#u1969 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1969_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1970_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:268px;
+  height:32px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1970 {
+  border-width:0px;
+  position:absolute;
+  left:1495px;
+  top:448px;
+  width:268px;
+  height:32px;
+  display:flex;
+}
+#u1970 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1970_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1971_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:102px;
+  height:33px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 1);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(121, 121, 121, 1);
+  border-radius:5px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+}
+#u1971 {
+  border-width:0px;
+  position:absolute;
+  left:1778px;
+  top:479px;
+  width:102px;
+  height:33px;
+  display:flex;
+}
+#u1971 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1971_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1972_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:13px;
+  height:21px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
+}
+#u1972 {
+  border-width:0px;
+  position:absolute;
+  left:1867px;
+  top:70px;
+  width:13px;
+  height:21px;
+  display:flex;
+  font-family:"Arial Negreta", "Arial Normal", "Arial", sans-serif;
+  font-weight:700;
+  font-style:normal;
+}
+#u1972 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1972_text {
+  border-width:0px;
+  white-space:nowrap;
+  text-transform:none;
+}
+#u1973_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:35px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#00AAAA;
+}
+#u1973 {
+  border-width:0px;
+  position:absolute;
+  left:814px;
+  top:341px;
+  width:35px;
+  height:16px;
+  display:flex;
+  font-size:12px;
+  color:#00AAAA;
+}
+#u1973 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1973_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1974_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:35px;
+  height:16px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  border:none;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-size:12px;
+  color:#00AAAA;
+}
+#u1974 {
+  border-width:0px;
+  position:absolute;
+  left:814px;
+  top:363px;
+  width:35px;
+  height:16px;
+  display:flex;
+  font-size:12px;
+  color:#00AAAA;
+}
+#u1974 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1974_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1975_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4400,14 +7781,316 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1926 {
+=======
+#u1975 {
+  border-width:0px;
+  position:absolute;
+  left:1033px;
+  top:342px;
+  width:87px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1975 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1975_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-left:0px;
+  border-top:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1975.mouseOver {
+}
+#u1975_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-left:0px;
+  border-top:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1975.selected {
+}
+#u1975_div.mouseOver.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-left:0px;
+  border-top:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1975.mouseOver.selected {
+}
+#u1975_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1976_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1976 {
+  border-width:0px;
+  position:absolute;
+  left:1111px;
+  top:342px;
+  width:87px;
+  height:18px;
+  display:flex;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1976 .text {
+  position:absolute;
+  align-self:flex-start;
+  padding:0px 0px 0px 0px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1976_div.mouseOver {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1976.mouseOver {
+}
+#u1976_div.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1976.selected {
+}
+#u1976_div.mouseOver.selected {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(255, 255, 255, 1);
+  border-left:0px;
+  border-top:0px;
+  border-right:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1976.mouseOver.selected {
+}
+#u1976_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+}
+#u1977_div {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:87px;
+  height:18px;
+  background:inherit;
+  background-color:rgba(255, 255, 255, 0);
+  box-sizing:border-box;
+  border-width:1px;
+  border-style:solid;
+  border-color:rgba(37, 97, 239, 1);
+  border-left:0px;
+  border-top:0px;
+  border-bottom:0px;
+  border-radius:0px;
+  border-top-right-radius:0px;
+  border-bottom-right-radius:0px;
+  -moz-box-shadow:none;
+  -webkit-box-shadow:none;
+  box-shadow:none;
+  font-family:"PingFang SC", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#2561EF;
+  text-align:center;
+}
+#u1977 {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:1033px;
@@ -4415,21 +8098,33 @@
   width:87px;
   height:18px;
   display:flex;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1926 .text {
+=======
+#u1977 .text {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
 #u1926_div.mouseOver {
+=======
+#u1977_div.mouseOver {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4451,16 +8146,26 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1926.mouseOver {
 }
 #u1926_div.selected {
+=======
+#u1977.mouseOver {
+}
+#u1977_div.selected {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4482,16 +8187,26 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1926.selected {
 }
 #u1926_div.mouseOver.selected {
+=======
+#u1977.selected {
+}
+#u1977_div.mouseOver.selected {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4513,21 +8228,35 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1926.mouseOver.selected {
 }
 #u1926_text {
+=======
+#u1977.mouseOver.selected {
+}
+#u1977_text {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1927_div {
+=======
+#u1978_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4548,14 +8277,22 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1927 {
+=======
+#u1978 {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:1111px;
@@ -4563,21 +8300,33 @@
   width:87px;
   height:18px;
   display:flex;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1927 .text {
+=======
+#u1978 .text {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
 #u1927_div.mouseOver {
+=======
+#u1978_div.mouseOver {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4598,16 +8347,26 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1927.mouseOver {
 }
 #u1927_div.selected {
+=======
+#u1978.mouseOver {
+}
+#u1978_div.selected {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4628,16 +8387,26 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1927.selected {
 }
 #u1927_div.mouseOver.selected {
+=======
+#u1978.selected {
+}
+#u1978_div.mouseOver.selected {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4658,21 +8427,35 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:#2561EF;
   text-align:center;
 }
+<<<<<<< HEAD
 #u1927.mouseOver.selected {
 }
 #u1927_text {
+=======
+#u1978.mouseOver.selected {
+}
+#u1978_text {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   word-wrap:break-word;
   text-transform:none;
 }
+<<<<<<< HEAD
 #u1928_div {
+=======
+#u1979_div {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:0px;
@@ -4686,13 +8469,21 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:rgba(153, 153, 153, 0.9882352941176471);
 }
+<<<<<<< HEAD
 #u1928 {
+=======
+#u1979 {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   position:absolute;
   left:20px;
@@ -4700,20 +8491,32 @@
   width:117px;
   height:18px;
   display:flex;
+<<<<<<< HEAD
   font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+=======
+  font-family:"PingFang SC", sans-serif;
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   font-weight:400;
   font-style:normal;
   font-size:13px;
   color:rgba(153, 153, 153, 0.9882352941176471);
 }
+<<<<<<< HEAD
 #u1928 .text {
+=======
+#u1979 .text {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   position:absolute;
   align-self:flex-start;
   padding:0px 0px 0px 0px;
   box-sizing:border-box;
   width:100%;
 }
+<<<<<<< HEAD
 #u1928_text {
+=======
+#u1979_text {
+>>>>>>> parent of 20e5000 (Merge branch 'main' of https://github.com/Qilaoye/sjdhfgsdh)
   border-width:0px;
   white-space:nowrap;
   text-transform:none;
